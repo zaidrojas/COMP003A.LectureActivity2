@@ -40,7 +40,7 @@ namespace COMP003A.LectureActivity2
             Console.WriteLine($"Hello, {userName}!");
             Console.WriteLine($"You are currently {userAge} years old. In 5 years, you will be {futureAge}.");
             Console.WriteLine($"Are you 18 or older?: {isAdult}.");
-            Console.WriteLine($"Are tou both a sudent and 18 or older? {isAdultStudent}");
+            Console.WriteLine($"Are you both a sudent and 18 or older? {isAdultStudent}");
 
         }
     }
